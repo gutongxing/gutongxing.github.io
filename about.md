@@ -6,11 +6,11 @@ permalink: /about/
 
 ## 关于我
 
-你好，我是翩帆，本科软件工程专业在读。
+我是 gutongxing，来自 gutong星。
 
-这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我在技术方面的学习心得与成长收获。
+- 这是我的 <font style="font-family:Sitka Text"> cnblogs </font>：<https://www.cnblogs.com/gutongxing>
+- 这是我的洛谷：<https://www.luogu.com.cn/user/723466>
 
-如果你对我的文章有任何疑问，或者发现文章中存在错误，可以通过邮件与我联系。
 
 ## 版权声明
 
