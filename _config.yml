@@ -11,6 +11,8 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
+  - name: 设置
+    url: https://github.com/gutongxing/gutongxing.github.io/
 
 paginate: 8
 
