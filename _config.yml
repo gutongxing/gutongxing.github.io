@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Gutongxing 's blog"
+description: ""
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://gutongxing.github.io/images/avatar.png
+favicon: https://gutongxing.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: gutongxing@outlook.com
   facebook:
-  github: pianfan
+  github: gutongxing
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
