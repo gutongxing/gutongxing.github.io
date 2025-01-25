@@ -2,7 +2,7 @@
 layout: post
 title: "【题解】LOJ6565最假女选手"
 date:   2025-1-25
-tags: [题解][线段树][势能线段树][吉司机线段树][模板]
+tags: [题解,线段树,势能线段树,吉司机线段树,模板]
 comments: true
 author: gutongxing
 ---
